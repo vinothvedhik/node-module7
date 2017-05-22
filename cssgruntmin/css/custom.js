@@ -1,0 +1,14 @@
+.bigIcon{
+ 
+padding-left: 65px;
+ 
+padding-right: 160px;
+ 
+}
+ 
+
+a:hover{
+ 
+text-decoration: none;
+ 
+}
